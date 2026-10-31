@@ -1,0 +1,242 @@
+[
+  {
+    "id": "TEST_000",
+    "company": "AAPL",
+    "year": 2023,
+    "question": "For Apex Tech (AAPL) in 2023, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 25.0,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_001",
+    "company": "AAPL",
+    "year": 2023,
+    "question": "For Apex Tech (AAPL) in 2023, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.2857,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_002",
+    "company": "AAPL",
+    "year": 2024,
+    "question": "For Apex Tech (AAPL) in 2024, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 25.0,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_003",
+    "company": "AAPL",
+    "year": 2024,
+    "question": "For Apex Tech (AAPL) in 2024, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.2857,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_004",
+    "company": "AAPL",
+    "year": 2025,
+    "question": "For Apex Tech (AAPL) in 2025, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 25.0,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_005",
+    "company": "AAPL",
+    "year": 2025,
+    "question": "For Apex Tech (AAPL) in 2025, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.2857,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_006",
+    "company": "MSFT",
+    "year": 2023,
+    "question": "For MegaCorp (MSFT) in 2023, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 35.42,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_007",
+    "company": "MSFT",
+    "year": 2023,
+    "question": "For MegaCorp (MSFT) in 2023, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.2292,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_008",
+    "company": "MSFT",
+    "year": 2024,
+    "question": "For MegaCorp (MSFT) in 2024, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 35.42,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_009",
+    "company": "MSFT",
+    "year": 2024,
+    "question": "For MegaCorp (MSFT) in 2024, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.2292,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_010",
+    "company": "MSFT",
+    "year": 2025,
+    "question": "For MegaCorp (MSFT) in 2025, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 35.42,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_011",
+    "company": "MSFT",
+    "year": 2025,
+    "question": "For MegaCorp (MSFT) in 2025, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.2292,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_012",
+    "company": "GOOGL",
+    "year": 2023,
+    "question": "For Global Search (GOOGL) in 2023, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 23.33,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_013",
+    "company": "GOOGL",
+    "year": 2023,
+    "question": "For Global Search (GOOGL) in 2023, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.07,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_014",
+    "company": "GOOGL",
+    "year": 2024,
+    "question": "For Global Search (GOOGL) in 2024, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 23.33,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_015",
+    "company": "GOOGL",
+    "year": 2024,
+    "question": "For Global Search (GOOGL) in 2024, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.07,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_016",
+    "company": "GOOGL",
+    "year": 2025,
+    "question": "For Global Search (GOOGL) in 2025, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 23.33,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_017",
+    "company": "GOOGL",
+    "year": 2025,
+    "question": "For Global Search (GOOGL) in 2025, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.07,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_018",
+    "company": "NVDA",
+    "year": 2023,
+    "question": "For Nova Dynamics (NVDA) in 2023, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 46.67,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_019",
+    "company": "NVDA",
+    "year": 2023,
+    "question": "For Nova Dynamics (NVDA) in 2023, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.1692,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_020",
+    "company": "NVDA",
+    "year": 2024,
+    "question": "For Nova Dynamics (NVDA) in 2024, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 46.67,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_021",
+    "company": "NVDA",
+    "year": 2024,
+    "question": "For Nova Dynamics (NVDA) in 2024, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.1692,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_022",
+    "company": "NVDA",
+    "year": 2025,
+    "question": "For Nova Dynamics (NVDA) in 2025, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 46.67,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_023",
+    "company": "NVDA",
+    "year": 2025,
+    "question": "For Nova Dynamics (NVDA) in 2025, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.1692,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_024",
+    "company": "AMZN",
+    "year": 2023,
+    "question": "For Atlas Retail (AMZN) in 2023, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 5.23,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_025",
+    "company": "AMZN",
+    "year": 2023,
+    "question": "For Atlas Retail (AMZN) in 2023, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.2731,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_026",
+    "company": "AMZN",
+    "year": 2024,
+    "question": "For Atlas Retail (AMZN) in 2024, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 5.23,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_027",
+    "company": "AMZN",
+    "year": 2024,
+    "question": "For Atlas Retail (AMZN) in 2024, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.2731,
+    "trap_type": "arithmetic_debt_ratio"
+  },
+  {
+    "id": "TEST_028",
+    "company": "AMZN",
+    "year": 2025,
+    "question": "For Atlas Retail (AMZN) in 2025, what was the Net Profit Margin percentage? Compute step-by-step using exact values.",
+    "ground_truth_answer": 5.23,
+    "trap_type": "arithmetic_margin"
+  },
+  {
+    "id": "TEST_029",
+    "company": "AMZN",
+    "year": 2025,
+    "question": "For Atlas Retail (AMZN) in 2025, calculate the Total Debt to Total Assets ratio.",
+    "ground_truth_answer": 0.2731,
+    "trap_type": "arithmetic_debt_ratio"
+  }
+]
